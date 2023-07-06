@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 # Personal Repository of Nahuel Venerus
 
 Hello! I'm Nahuel Venerus, and this is my personal repository on GitHub. Here you will find a variety of projects, code examples, and resources related to my work and areas of interest.
@@ -47,5 +46,3 @@ If you'd like to get in touch with me, you can reach me through the following ch
 - LinkedIn: [Nahuel Venerus](https://www.linkedin.com/in/nahuel-venerus/)
 
 Thank you for visiting my repository!
-
--->
