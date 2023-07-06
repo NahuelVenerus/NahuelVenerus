@@ -42,7 +42,7 @@ Feel free to explore the repository to see examples of my work in these language
 
 If you'd like to get in touch with me, you can reach me through the following channels:
 
-- Email: [your@email.com](mailto:nahuelvenerus@gmail.com)
+- Email: [nahuelvenerus@gmail.com](mailto:nahuelvenerus@gmail.com)
 - LinkedIn: [Nahuel Venerus](https://www.linkedin.com/in/nahuel-venerus/)
 
 Thank you for visiting my repository!
