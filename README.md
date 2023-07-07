@@ -38,7 +38,7 @@ Here are some of the programming languages I work with:
 
 Feel free to explore the repository to see examples of my work in these languages and more.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nahuel-Venerus&theme=dark&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NahuelVenerus&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 ## Contact
 
